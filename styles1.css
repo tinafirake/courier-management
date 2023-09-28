@@ -1,0 +1,26 @@
+* { 
+    box-sizing: border-box;
+}
+body{
+    font-family: Verdena,Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px 30px;
+    font-size: 15px;
+    font-weight: 200;
+    padding:8px;
+}
+/* state */
+.container{
+    background-image: url(background2.jpg);
+    background-color: #d6d5c2;
+    padding: 100px 5px 100px 5px; 
+    border: 1px solid rgb(242, 242, 246);
+    border-radius:2px;
+}
+.main_heading{
+    text-align: center;
+}
+
+input[type="submit"]{
+    background-color: rgb(76, 225, 181);
+    color: black;
+}

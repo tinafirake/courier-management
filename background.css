@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    font-size: 40px;
+    font-family : Arial,Times New Roman,sans-serif ;
+    color : #000000;
+    background-image: url(background3.png);
+    margin-left : auto;
+    position: absolute;
+    top: 30%;
+    left: 26%;
+    margin-right: -50%;
+}
